@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oaariasm&label=Profile%20views&color=0e75b6&style=flat" alt="oaariasm" /> </p>
 
-- 🌱 I’m currently learning Django, JavaScript and experimenting with other technologies
+- 🌱 Working with Django and Jam.py to develop software solutions for enterprises and small businesses.
 
-- 💬 Ask me about Linux, server management and a bit of python
+- 📚 Learning JavaScript
 
 - 📫 Contact me at oaariasm@gmail.com
 
