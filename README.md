@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oaariasm&label=Profile%20views&color=0e75b6&style=flat" alt="oaariasm" /> </p>
 
-I am a sysadmin with knowledge of Linux servers, Active Directory and network management. I am also using Python for automation tools and along with Django to learn web development.
+I am a sysadmin with knowledge of Linux servers, Active Directory and network management. I am also using Python for automation tools. Currently learning C#.
 
 <h3 align="left">Connect with me:</h3>
 
